@@ -15,6 +15,8 @@
 
 
 ## Problem Statement:
+
+
 Automate this website:
 
 _https://demo.wpeverest.com/user-registration/guest-registration-form/_
@@ -32,6 +34,11 @@ Steps for Automation:
 * Open the test report located at: _build/reports/tests/test/index.html_ and class report at: _build/reports/tests/test/classes/WebFormTest.html_
 
 ## Report Summary
+![test1](https://github.com/user-attachments/assets/8e441117-bfd3-41f6-bc47-9624b6dbaa91)
+
+![test2](https://github.com/user-attachments/assets/cd13fe92-3783-4f08-bcc5-5ab4b1203745)
+
+
 
 
 
